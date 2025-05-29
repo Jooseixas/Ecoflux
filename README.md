@@ -9,7 +9,6 @@ VSCode + extensões para TypeScript e PHP.
 ### Customize configuration
 
 ```
-```sh
 npm install
 ```
 
@@ -17,7 +16,6 @@ npm install
 
 
 ```
-```sh
 npm run dev
 ```
 
