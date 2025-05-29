@@ -7,13 +7,10 @@ O front-end é construído com Vite e TypeScript, enquanto o back-end é feito e
 VSCode + extensões para TypeScript e PHP.
 
 ### Customize configuration
-Veja a Vite Configuration Reference.
 
 ```
 ```sh
 npm install
-
-```
 
 ### Compile and Hot-Reload for Development
 
