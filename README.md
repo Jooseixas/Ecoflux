@@ -22,7 +22,7 @@ npm run dev
 
 ```
 
-# Grupo Ecoflux
+### Grupo Ecoflux
 
 Integrantes
 
