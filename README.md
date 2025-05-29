@@ -29,3 +29,7 @@ Lucas Garcia Ribeiro - 1971977
 João Victor Marque Seixas - 1974858
 
 Josué Miguel Ramos de Souza - 1976990
+
+Rafael Augusto Pereira De Souza - 1972020
+
+Livia Maria Trindade Mazalli - 1964887
