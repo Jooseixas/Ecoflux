@@ -23,12 +23,7 @@ npm install
 npm run dev
 
 
-```
-
-
-
-
-# Grupo Eficazes
+# Grupo Ecoflux
 
 Integrantes
 
