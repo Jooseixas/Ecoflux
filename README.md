@@ -22,9 +22,18 @@ npm install
 ```sh
 npm run dev
 
+
 ```
 
 
-RA: 1974858  
-Nome: João Victor Marques Seixas  
-Turma: 2ºB  
+
+
+# Grupo Eficazes
+
+Integrantes
+
+Lucas Garcia Ribeiro - 1971977
+
+João Victor Marque Seixas - 1974858
+
+Josué Miguel Ramos de Souza - 1976990
