@@ -1,32 +1,24 @@
-
-
 ### Ecoflux
 
 Este projeto foi desenvolvido com TypeScript, CSS e PHP, com foco em sustentabilidade e soluções ambientais.
 O front-end é construído com Vite e TypeScript, enquanto o back-end é feito em PHP.
 
-Recommended IDE Setup
+###Recommended IDE Setup
 VSCode + extensões para TypeScript e PHP.
-```
-```
-Customize configuration
-Veja a Vite Configuration Reference.
-```
 
-Project Setup
-sh
-Copiar
-Editar
+###Customize configuration
+Veja a Vite Configuration Reference.
+
+````
+```sh
 npm install
-Compile and Hot-Reload for Development
-sh
-Copiar
-Editar
+
+```
+### Compile and Hot-Reload for Development
+
+```sh
 npm run dev
-Compile and Minify for Production
-sh
-Copiar
-Editar
+```
 npm run build
 Run PHP Backend
 Instale um servidor local (como XAMPP ou WAMP).
